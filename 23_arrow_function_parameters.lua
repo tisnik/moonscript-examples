@@ -1,3 +1,7 @@
+--
+-- Skript transpilovaný do jazyka Lua
+--
+
 local multiply
 multiply = function(x, y)
   return x * y
