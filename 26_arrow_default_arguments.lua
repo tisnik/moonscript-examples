@@ -1,3 +1,7 @@
+--
+-- Skript transpilovaný do jazyka Lua
+--
+
 local weird_sum
 weird_sum = function(x, y, z)
   if x == nil then
