@@ -1,3 +1,7 @@
+--
+-- Skript transpilovaný do jazyka Lua
+--
+
 local my_random
 my_random = function()
   return math.random(1, 10)
