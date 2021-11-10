@@ -1,3 +1,7 @@
+--
+-- Skript transpilovaný do jazyka Lua
+--
+
 local a = 10
 local b = "foo"
 local c = {
