@@ -1,3 +1,7 @@
+--
+-- Skript zapsaný v jazyce Moonscript
+--
+
 x = 1
 y = 2
 
