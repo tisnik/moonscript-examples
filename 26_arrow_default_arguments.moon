@@ -1,3 +1,7 @@
+--
+-- Skript zapsaný v jazyce Moonscript
+--
+
 weird_sum = (x=0, y=x+1, z=y*2) -> x + y + z
 
 print sum!
