@@ -1,3 +1,7 @@
+--
+-- Skript zapsaný v jazyce Moonscript
+--
+
 sum = (x=0, y=0, z=0) -> x + y + z
 
 print sum!
