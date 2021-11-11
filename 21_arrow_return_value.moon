@@ -1,3 +1,7 @@
+--
+-- Skript zapsaný v jazyce Moonscript
+--
+
 my_random = ->
     return math.random(1, 10)
 
