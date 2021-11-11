@@ -1,3 +1,7 @@
+--
+-- Skript zapsaný v jazyce Moonscript
+--
+
 a = 10
 b = "foo"
 c = {1,2,3}
